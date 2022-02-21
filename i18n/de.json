@@ -1,7 +1,8 @@
 {
   "countries": {
     "AT": "Austria",
-    "DE": "Deutchland"
+    "DE": "Deutchland",
+    "FAKE": "I don't exist!"
   },
   "errors": {
     "alreadyExists": "Bereits vorhanden",
