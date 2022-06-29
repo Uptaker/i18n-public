@@ -1,5 +1,8 @@
 {
   "title": "Testing",
+  "address": {
+    "title": "Adres zamieszkania"
+  },
   "countries": {
     "PL": "Polska"
   },
