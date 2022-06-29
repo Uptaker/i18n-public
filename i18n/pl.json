@@ -1,22 +1,11 @@
 {
+  "title": "Testing",
   "countries": {
     "PL": "Polska"
   },
   "errors": {
     "alreadyExists": "Już istnieje"
   },
-  "pages": {
-    "shopper": {
-      "menu": "Kupujący"
-    },
-    "merchant": {
-      "menu": "Kupiec"
-    },
-    "integration": {
-      "menu": "Integracja"
-    }
-  },
-  "title": "Testing",
   "wizard": {
     "back": "Wstecz",
     "next": "Następny"
