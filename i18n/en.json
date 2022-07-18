@@ -1,5 +1,5 @@
 {
-	"title": "Welcome!",
+	"title": "Welcome! This key will not show up in other languages due to dont-ignore-keys.json",
 	"placeholders": "Translations can contain placeholders, such as {url} or {name}. Type something here!",
 	"address": {
 		"title": "Address",
