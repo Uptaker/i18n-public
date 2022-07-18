@@ -1,11 +1,41 @@
 {
+  "title": "Testing",
+  "address": {
+    "title": "Adres zamieszkania",
+    "city": "Miasto",
+    "country": "Kraj",
+    "postalCode": "Kod pocztowy",
+    "street": "adres ulicy",
+    "apartment": "Apartament/apartament"
+  },
+  "consentsHtml": {
+    "DATA_PROCESSING": "Rozumiem, że Testing AS będzie przetwarzać dane osobowe zebrane w tej aplikacji zgodnie z <a href=\"https://Testing.co/docs/en/privacy_notice_001_b2c3b9b8.pdf\" target=\"_blank\">Informacją o ochronie prywatności</a>."
+  },
   "countries": {
-    "PL": "Polska"
+    "AD": "Andora",
+    "AE": "Zjednoczone Emiraty Arabskie",
+    "AF": "Afganistan",
+    "AL": "Albania",
+    "AM": "Armenia",
+    "AN": "Antyle Holenderskie"
   },
   "errors": {
-    "alreadyExists": "Już istnieje"
+    "alreadyExists": "Już istnieje",
+    "technical": "<b>Błąd techniczny</b>. Spróbuj ponownie."
   },
-  "title": "Testing",
+  "forbidden": {
+    "message": "Brak dostępu!"
+  },
+  "notfound": {
+    "home": "Strona główna",
+    "message": "Strona nie znaleziona"
+  },
+  "person": {
+    "birthDate": "Data urodzenia",
+    "name": "Nazwa",
+    "personalCode": "Osobisty numer identyfikacyjny",
+    "documentNumber": "Numer dokumentu"
+  },
   "wizard": {
     "back": "Wstecz",
     "next": "Następny"
