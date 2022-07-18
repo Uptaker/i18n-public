@@ -11,7 +11,7 @@
 		"apartment": "Apt/suite"
 	},
 	"consentsHtml": {
-		"description": "This section contains HTML",
+		"description": "This section contains <strong>HTML<strong> because one of the keys has a <i>Html</i> prefix",
 		"DATA_PROCESSING": "I understand Testing AS will process personal data collected in this application according to the <a href=\"https://Testing.co/docs/en/privacy_notice_001_b2c3b9b8.pdf\" target=\"_blank\">Privacy Notice</a>."
 	},
 	"contacts": {
