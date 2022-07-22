@@ -4,5 +4,9 @@
     "postalCode": "Postleitzahl",
     "street": "Adresse",
     "apartment": "Appartement/Suite"
+  },
+  "wizard": {
+    "next": "Nächste",
+    "submit": "Einreichen"
   }
 }
