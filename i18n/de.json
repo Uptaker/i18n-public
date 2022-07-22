@@ -6,6 +6,9 @@
     "street": "Adresse",
     "apartment": "Appartement/Suite"
   },
+  "contacts": {
+    "email": "Email"
+  },
   "person": {
     "documentNumber": "Dokumentnummer"
   },
