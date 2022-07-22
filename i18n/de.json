@@ -10,6 +10,7 @@
     "email": "Email"
   },
   "person": {
+    "personalCode": "Persönliche Identifikationsnummer",
     "documentNumber": "Dokumentnummer"
   },
   "wizard": {
