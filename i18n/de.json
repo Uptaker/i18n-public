@@ -10,6 +10,7 @@
     "email": "Email"
   },
   "person": {
+    "birthDate": "Geburtsdatum",
     "firstName": "Vorname",
     "lastName": "Nachname",
     "name": "Name",
