@@ -5,7 +5,11 @@
     "street": "Adresse",
     "apartment": "Appartement/Suite"
   },
+  "person": {
+    "documentNumber": "Dokumentnummer"
+  },
   "wizard": {
+    "back": "test",
     "next": "Nächste",
     "submit": "Einreichen"
   }
