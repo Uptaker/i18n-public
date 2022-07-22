@@ -10,6 +10,7 @@
     "email": "Email"
   },
   "person": {
+    "name": "Name",
     "personalCode": "Persönliche Identifikationsnummer",
     "documentNumber": "Dokumentnummer"
   },
