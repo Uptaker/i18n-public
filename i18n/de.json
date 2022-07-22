@@ -1,13 +1,8 @@
 {
   "title": "Willkommen!",
   "address": {
-    "city": "Stadt",
-    "country": "Land",
     "postalCode": "Postleitzahl",
     "street": "Adresse",
     "apartment": "Appartement/Suite"
-  },
-  "consentsHtml": {
-    "description": "Dieser Abschnitt enthält <strong>HTML<strong>, weil einer der Schlüssel ein <i>Html</i>-Präfix hat"
   }
 }
