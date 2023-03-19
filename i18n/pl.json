@@ -39,5 +39,15 @@
   "wizard": {
     "back": "Wstecz",
     "next": "Następny"
+  },
+  "this": {
+    "is": {
+      "invalid": "This is invalid"
+    },
+    "does": {
+      "not": {
+        "exist": "This does not exist"
+      }
+    }
   }
 }
